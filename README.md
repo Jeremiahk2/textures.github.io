@@ -1,1 +1,1 @@
-# textures.github.io
+# Hosting textures for another project
